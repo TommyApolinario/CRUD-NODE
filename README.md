@@ -1,4 +1,4 @@
-# CRUD Nodejs con Express y MySQL2
+# CRUD Nodejs y MySQL
 
     Crud completo con Node js y MySQL
     Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar y Borrar) en Node.js utilizando el framework Express y la biblioteca `mysql2` para interactuar con una base de datos MySQL.
